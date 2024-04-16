@@ -534,7 +534,16 @@ h3.profession {
 .project .project-heading {
     flex: 0 0 100%;
     max-width: 100%;
-    padding-bottom: 15px;
+    padding-bottom: 35px;
+}
+
+.special-text{
+    color: var(--bt900);
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    top: 120px;
+    left: 375px;
 }
 
 .project .container {
@@ -545,8 +554,6 @@ h3.profession {
     color: var(--bt900);
     font-weight: 500;
 }
-
-
 
 .control {
     max-width: 500px;
