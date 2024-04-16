@@ -728,6 +728,15 @@ h3.profession {
     color: var(--bt700);
 }
 
+.contact .contact-info-item .contact-info-item-link{
+    transition: .2s ease-in-out;
+}
+
+.contact .contact-info-item .contact-info-item-link:hover{
+    text-decoration: underline;
+    font-size: large;
+}
+
 .contact .contact-form {
     flex: 0 0 100%;
     max-width: 100%;
