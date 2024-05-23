@@ -1,5 +1,5 @@
-### Hi there 👋
-<style>a{color: red;}</style>
+Hello There
+
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
 
