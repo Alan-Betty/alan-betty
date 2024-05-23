@@ -6,7 +6,7 @@ This is the <a href="https://alan-betty.github.io">Link</a>
 - 🔭 I’m currently working on a few company websites.
 - 🌱 I’m currently learning BackEnd.
 - 👯 I’m looking to collaborate on Python And PyGame.
-- 🤔 I’m looking for help with Everything I Know.
+- 🤔 I’m looking to help with Everything I Know.
 - 💬 Ask me about Anything and i will tell all that i can.
 - 📫 How to reach me: padayattilbettyalan@gmail.com.
 - 😄 Pronouns: He/Him.
