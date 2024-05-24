@@ -1,7 +1,10 @@
-Hello There
-<hr></hr>
-https://img.shields.io/youtube/channel/views/UCXyMznWPmtsBvRmf6JSlr4w?style=for-the-badge&logo=YouTube&logoColor=%23FF0000&label=YouTube&labelColor=%23000000&color=%23000000
+# Alan Betty
 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXyMznWPmtsBvRmf6JSlr4w?style=social&label=YouTube) , 
+![Static Badge](https://img.shields.io/badge/Instagram-Follow-%23000?style=social&logo=Instagram) , 
+![Static Badge](https://img.shields.io/badge/-Follow-%23000?style=social&logo=x) , 
+![Static Badge](https://img.shields.io/badge/CodePen-Follow-%23000?style=social&logo=codepen) , 
+![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord) , 
 
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
