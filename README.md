@@ -9,6 +9,23 @@
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
 
+
+# Skills
+
+- 💻 Software Engineer  
+- 🌱 Lifelong Learner  
+- 🚀 Tech Enthusiast  
+
+# Projects
+
+- <a href="https://alan-betty.github.io"></a>
+- <a href="https://alan-betty.github.io"></a>
+- <a href="https://alan-betty.github.io"></a>
+- <a href="https://alan-betty.github.io"></a>
+- <a href="https://alan-betty.github.io"></a>
+- <a href="https://alan-betty.github.io"></a>
+
+
 - 🔭 I’m currently working on a few company websites.
 - 🌱 I’m currently learning BackEnd.
 - 👯 I’m looking to collaborate on Python And PyGame.
