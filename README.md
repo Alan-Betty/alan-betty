@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/-Follow-%23000?style=social&logo=x) , 
 ![Static Badge](https://img.shields.io/badge/CodePen-Follow-%23000?style=social&logo=codepen) , 
 ![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord) , 
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Continue.Continue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue&label=Continue%20AI%20&labelColor=black&color=black) , 
 
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
@@ -18,12 +19,11 @@ This is the <a href="https://alan-betty.github.io">Link</a>
 
 # Projects
 
-- <a href="https://alan-betty.github.io"></a>
-- <a href="https://alan-betty.github.io"></a>
-- <a href="https://alan-betty.github.io"></a>
-- <a href="https://alan-betty.github.io"></a>
-- <a href="https://alan-betty.github.io"></a>
-- <a href="https://alan-betty.github.io"></a>
+- <a href="https://alan-betty.github.io">My Portfolio</a>
+- <a href="https://alan-betty.github.io/The-Inception-Bros"/>The Inception Bro's</a>
+- <a href="https://webinar-alanpadayattilbetty.github.io/webinar-Alanpadayattilbetty-Mytraveldestinationadvancedwithlogin.github.io/">Favourite Places</a>
+- <a href="https://webinar-alanpadayattilbetty.github.io/mindchampWebinar.github.io/">Incredible India</a>
+
 
 
 - 🔭 I’m currently working on a few company websites.
