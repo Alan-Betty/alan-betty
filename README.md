@@ -28,6 +28,10 @@ This is the <a href="https://alan-betty.github.io">Link</a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alan-Betty&show_icons=true&count_private=true&theme=dark)
 
+# Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Betty)
+
 - 🔭 I’m currently working on a few company websites.
 - 🌱 I’m currently learning BackEnd.
 - 👯 I’m looking to collaborate on Python And PyGame.
