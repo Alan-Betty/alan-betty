@@ -1,6 +1,6 @@
 # Alan Betty
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXyMznWPmtsBvRmf6JSlr4w?style=social&label=YouTube) , 
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXyMznWPmtsBvRmf6JSlr4w?style=social&label=YouTube)](https://youtube.com/@alanbetty) , 
 ![Static Badge](https://img.shields.io/badge/Instagram-Follow-%23000?style=social&logo=Instagram) , 
 ![Static Badge](https://img.shields.io/badge/-Follow-%23000?style=social&logo=x) , 
 ![Static Badge](https://img.shields.io/badge/CodePen-Follow-%23000?style=social&logo=codepen) , 
