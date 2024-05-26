@@ -24,7 +24,9 @@ This is the <a href="https://alan-betty.github.io">Link</a>
 - <a href="https://webinar-alanpadayattilbetty.github.io/webinar-Alanpadayattilbetty-Mytraveldestinationadvancedwithlogin.github.io/">Favourite Places</a>
 - <a href="https://webinar-alanpadayattilbetty.github.io/mindchampWebinar.github.io/">Incredible India</a>
 
+# My Github Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alan-Betty&show_icons=true&count_private=true&theme=dark)
 
 - 🔭 I’m currently working on a few company websites.
 - 🌱 I’m currently learning BackEnd.
