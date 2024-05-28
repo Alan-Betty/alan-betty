@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Instagram-Follow-%23000?style=social&logo=Instagram)](https://instagram.com/alan__betty) , 
 [![Static Badge](https://img.shields.io/badge/-Follow-%23000?style=social&logo=x)](https://x.com/AlanPBetty) , 
 [![Static Badge](https://img.shields.io/badge/CodePen-Follow-%23000?style=social&logo=codepen)](https://codepen.io/Alan-Betty) , 
-[![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord)](discordapp.com/users/1229633538362703882) ,  
+[![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord)](https://discord.com/users/1229633538362703882) ,  
 
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
