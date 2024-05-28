@@ -2,10 +2,9 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCXyMznWPmtsBvRmf6JSlr4w?style=social&label=YouTube)](https://youtube.com/@alanbetty) , 
 [![Static Badge](https://img.shields.io/badge/Instagram-Follow-%23000?style=social&logo=Instagram)](https://instagram.com/alan__betty) , 
-![Static Badge](https://img.shields.io/badge/-Follow-%23000?style=social&logo=x) , 
-![Static Badge](https://img.shields.io/badge/CodePen-Follow-%23000?style=social&logo=codepen) , 
-![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord) , 
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Continue.Continue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue&label=Continue%20AI%20&labelColor=black&color=black) , 
+[![Static Badge](https://img.shields.io/badge/-Follow-%23000?style=social&logo=x)](https://x.com/AlanPBetty) , 
+[![Static Badge](https://img.shields.io/badge/CodePen-Follow-%23000?style=social&logo=codepen)](https://codepen.io/Alan-Betty) , 
+[![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord)](discord.com/users/1229633538362703882) ,  
 
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
