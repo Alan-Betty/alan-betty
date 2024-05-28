@@ -10,12 +10,15 @@
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
 
-
-# Skills
-
 - 💻 Software Engineer  
 - 🌱 Lifelong Learner  
-- 🚀 Tech Enthusiast  
+- 🚀 Tech Enthusiast
+
+# Skills
+- Programming Languages: JavaScript, Python
+- Front-end Development: HTML, CSS
+- Back-End Development: PHP, Python, JavaScript 
+  
 
 # Projects
 
