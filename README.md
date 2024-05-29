@@ -7,6 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/Discord-Follow-%23000?style=social&logo=discord)](https://discord.com/users/1229633538362703882) ,  
 
 Hi! I'm Alan Betty, A young student who is very interested in programming and technology. 
+I'm Very Well Ready To Help anyone in trouble with all my knowledge.
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
 
