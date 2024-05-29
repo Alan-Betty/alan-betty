@@ -8,6 +8,7 @@
 
 Hi! I'm Alan Betty, A young student who is very interested in programming and technology. 
 I'm Very Well Ready To Help anyone in trouble with all my knowledge.
+Feel Free To Reach Out.
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
 This is the <a href="https://alan-betty.github.io">Link</a>
 
@@ -35,6 +36,9 @@ This is the <a href="https://alan-betty.github.io">Link</a>
 # Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Betty)
+
+
+# A Little About Me
 
 - 🔭 I’m currently working on a few company websites.
 - 🌱 I’m currently learning BackEnd.
