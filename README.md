@@ -48,5 +48,4 @@ This is the <a href="https://alan-betty.github.io">Link</a>
 - 📫 How to reach me: padayattilbettyalan@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm eligible for a place in india book of records.
-<!--
-**Alan-Betty/Alan-Betty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
