@@ -10,8 +10,7 @@ Hi! I'm Alan Betty, A young student who is very interested in programming and te
 I'm Very Well Ready To Help anyone in trouble with all my knowledge.
 Feel Free To Reach Out.
 This is My Portfolio Website Where it took even the last two of my Non Existent Brain Cells
-This is the <a href="https://alan-betty.github.io">Link</a>
-
+{ Given Below }
 - 💻 Software Engineer  
 - 🌱 Lifelong Learner  
 - 🚀 Tech Enthusiast
